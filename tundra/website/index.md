@@ -22,6 +22,8 @@ title: Тундра-Х
 
 [Задачи для тренировки](http://ivan.shell.tor.hu/x/sometasks-1styear.html)
 
+[Программа контрольной работы №1](http://ivan.shell.tor.hu/x/1st-kontr.html)
+
 Второй курс: 12202, 12206
 =========================
 [Результаты 12202](http://ivan.shell.tor.hu/x/results_12202.html)
