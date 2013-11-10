@@ -28,6 +28,8 @@ title: Тундра-Х
 
 [Программа контрольной работы №1](http://ivan.shell.tor.hu/x/1st-kontr.html)
 
+[Программа зачёта](http://ivan.shell.tor.hu/x/1st-zachet.html)
+
 Второй курс: 12202, 12206
 =========================
 [Результаты 12202](http://ivan.shell.tor.hu/x/results_12202.html)
